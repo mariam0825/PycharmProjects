@@ -1,0 +1,6 @@
+Fuel: Petrol | Litres: 2.0 | Total Amount: 1500
+Fuel: Petrol | Litres: 2 | Total Amount: 1500
+Fuel: Petrol | Litres: 6 | Total Amount: 4500
+Fuel: Petrol | Litres: 2.0 | Total Amount: 1500
+Fuel: Petrol | Litres: 2 | Total Amount: 1500
+Fuel: Petrol | Litres: 6 | Total Amount: 4500
